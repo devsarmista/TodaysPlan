@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactplan/static/css/main.a6efd0a2.css",
+    "main.js": "/reactplan/static/js/main.ecaa52c3.js",
+    "static/js/787.2afbd57d.chunk.js": "/reactplan/static/js/787.2afbd57d.chunk.js",
+    "index.html": "/reactplan/index.html",
+    "main.a6efd0a2.css.map": "/reactplan/static/css/main.a6efd0a2.css.map",
+    "main.ecaa52c3.js.map": "/reactplan/static/js/main.ecaa52c3.js.map",
+    "787.2afbd57d.chunk.js.map": "/reactplan/static/js/787.2afbd57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6efd0a2.css",
+    "static/js/main.ecaa52c3.js"
+  ]
+}
